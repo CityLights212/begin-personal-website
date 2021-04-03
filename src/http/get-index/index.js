@@ -7,7 +7,7 @@ exports.handler = async function Index () {
     /**
      * Basic bio
      */
-    fullname: 'Your Name', /Armand/ ←  Start by adding your name!
+    fullname: 'Armand', // ←  Start by adding your name!
     title: 'My personal site!',
     occupation: 'Artist & Photographer',
     location: 'West Glacier, MT',
